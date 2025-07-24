@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **geoffvrijmoet/geoffvrijmoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,5 +28,5 @@ I am currently developing **Project Keystone**, a multi-tenant, HIPAA-compliant 
 
 - 🔭 **I’m currently building with:** React, Next.js, Node.js, MongoDB, and AWS.
 - 🌱 **I’m currently learning more about:** HIPAA technical safeguards and healthcare data interoperability.
-- 📫 **How to reach me:** [Your Email]
-- 🔗 **Connect with me:** [Link to your updated LinkedIn Profile]
+- 📫 **How to reach me:** hello@geoffvrijmoet.com
+- 🔗 **Connect with me:** linkedin.com/in/geoffvrijmoet
