@@ -29,4 +29,4 @@ I am currently developing **Project Keystone**, a multi-tenant, HIPAA-compliant 
 - 🔭 **I’m currently building with:** React, Next.js, Node.js, MongoDB, and AWS.
 - 🌱 **I’m currently learning more about:** HIPAA technical safeguards and healthcare data interoperability.
 - 📫 **How to reach me:** hello@geoffvrijmoet.com
-- 🔗 **Connect with me:** linkedin.com/in/geoffvrijmoet
+- 🔗 **Connect with me:** [linkedin.com/in/geoffvrijmoet]
