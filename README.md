@@ -22,11 +22,13 @@ My passion is partnering with founders and business owners to understand their v
 
 **My Current Focus:**
 
-I am currently developing **Project Keystone**, a multi-tenant, HIPAA-compliant platform designed to be the "operating system" for doula agencies. My goal is to empower these vital healthcare providers by streamlining their client management and demystifying the world of insurance billing.
+I’m currently developing a multi-tenant, HIPAA-compliant platform designed to be the "operating system" for doula agencies. My goal is to empower these vital healthcare providers by streamlining their client management and demystifying the world of insurance billing.
 
 ---
 
 - 🔭 **I’m currently building with:** React, Next.js, Node.js, MongoDB, and AWS.
 - 🌱 **I’m currently learning more about:** HIPAA technical safeguards and healthcare data interoperability.
+- 💻 I built [Presto Plan It](https://www.prestoplanit.com) - a SaaS platform for private teachers to automate student scheduling.
+(Note: The source code is private due to a client agreement, but I was the sole developer responsible for the full-stack build).
 - 📫 **How to reach me:** hello@geoffvrijmoet.com
 - 🔗 **[LinkedIn](https://linkedin.com/in/geoffvrijmoet)** 
